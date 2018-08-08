@@ -22,7 +22,7 @@ $Id: README,v 1.1.1.1 2004/05/18 01:50:44 kgibbs Exp $
 
 Build Iperf For Android
 
-Put this repository in Android Source Tree(e.g. below example/).
+Put this repository in Android Source Tree(e.g. below external/).
 
 How to build:
 
